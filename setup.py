@@ -8,10 +8,8 @@ setup(
     version='1.0.0',
     description='Command line user export utility',
     long_description=readme,
-    author='Your Name',
-    author_email='youremail@example.com',
-    # This will define where to look for the package itself. We're pointing find_packages
-    # at the local src directory
+    author='Gus Arismendi',
+    author_email='gustavoarismendi@hotmail.com',
     packages=find_packages('src'),
     package_dir={'': 'src'},
     install_requires=[],
